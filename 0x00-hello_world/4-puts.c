@@ -12,5 +12,4 @@ int main(void)
 
 	puts(string);
 	return (0);
-
 }
