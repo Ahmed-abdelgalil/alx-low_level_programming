@@ -5,8 +5,8 @@
  *
  * then return 0
  */
-int main(void){
-
+int main(void)
+{
 	/*main function */ 
 	char string[] = "\"Programming is like building a multilingual puzzle";
 
