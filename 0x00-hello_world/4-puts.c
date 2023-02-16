@@ -1,13 +1,11 @@
 #include <stdio.h>
 /**
- *print to screen using puts()
+ * main - print to screen using puts()
  *
- *
- * then return 0
+ * Return: zero
  */
 int main(void)
 {
-	/*main function */ 
 	char string[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(string);
