@@ -4,7 +4,7 @@
  * main - print alphabets in lower and upper case
  *
  *
- * Return : zero
+ * Return: zero
  */
 int main(void)
 {
