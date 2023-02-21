@@ -2,7 +2,8 @@
 #include <ctype.h>
 
 /**
- * main - check if  alphabets in lower case 
+ * _islower - check if  alphabets in lower case 
+ * @c: letter to test
  *
  * Return: 1 if is lower zero otherwise
  */
