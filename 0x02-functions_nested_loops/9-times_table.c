@@ -17,7 +17,10 @@ void times_table(void)
 
 			_putchar(',');
 			_putchar(' ');
-			_putchar(n + '0');
+			(n <= 9) ?
+			_putchar(' ') :
+			_putchar('0' + (n / 10));
+			_putchar('0' + (n % 10));
 		}
 		_putchar('\n');
 	}
