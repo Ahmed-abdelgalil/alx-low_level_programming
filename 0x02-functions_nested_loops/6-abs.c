@@ -3,11 +3,11 @@
 
 /**
  * _abs - compute absolute value of integer
- * @int: integer to test
+ * @n: integer to test
  *
  * Return: absolute value of int 
  */
-int _abs(int)
+int _abs(int n)
 {
-	return (abs(int));
+	return (abs(n));
 }
