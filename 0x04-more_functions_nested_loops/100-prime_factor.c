@@ -19,12 +19,13 @@ int main(void)
       {
          maxFact = n;
          n = n / div;
-         if(n == 1) {
-            printf(maxFact);
+         if(n == 1) 
+	 {
+            printf("%ld \n", maxFact);
             ans = 1;
             break;
          }
       }
    }
-   return 0;
+   return (0);
 }
