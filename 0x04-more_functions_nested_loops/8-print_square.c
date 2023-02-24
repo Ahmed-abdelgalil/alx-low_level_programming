@@ -13,9 +13,9 @@ void print_square(int size)
         _putchar('\n');
     else 
     {
-        while(i < size)
+        while(i <= size)
         {
-            while(j < size)
+            while(j <= size)
             {
                 _putchar('#');
                 j++;
