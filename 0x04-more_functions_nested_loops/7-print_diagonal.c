@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* print_diagonal - print digonal with \  
-* @n: integer to draw \
+* print_diagonal - print digonal with '\'  
+* @n: integer to draw '\'
 */
 void print_diagonal(int n)
 {
